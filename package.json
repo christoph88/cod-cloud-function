@@ -13,5 +13,10 @@
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-vue": "^6.2.2"
+  },
+  "dependencies": {
+    "call-of-duty-api": "^1.1.8",
+    "dotenv": "^8.2.0",
+    "escape-html": "^1.0.3"
   }
 }
